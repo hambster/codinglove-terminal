@@ -12,6 +12,10 @@ iTerm with version >= 2.9.
 
 python codinglove.py --page 1
 
+## screenshot
+
+![screenshot](codinglove_iterm2.png)
+
 ## notes
 
 ```img``` directory will be created to cache gif files.
